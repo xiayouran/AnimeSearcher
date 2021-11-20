@@ -8,8 +8,8 @@
   },
   "home": "http://github.com/lozyue/animesearcherui/",
   "thumbs": "",
-  "styles": [ ],
+  "styles": [],
   "scripts": ["main.js"],
-  "privilege_scripts": ["/privilege.js"],
+  "privilege_scripts": "/privilege.js",
   "async_script": true
 }
